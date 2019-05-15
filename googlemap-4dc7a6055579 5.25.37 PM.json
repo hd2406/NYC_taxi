@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "enduring-rush-239305",
+  "private_key_id": "4dc7a6055579e190a839724798512bce7f98d2bc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy8b9Tm8dVpz8h\nBF9IueSSeh9V69BOrrz0g5JWCHf+SNjr8/MQ44jvKjLxJOzT4J5y9LOFFIZP5bHP\nZIHUc6aSP5fW+O1iH0rxwx0bpfeAyLaRhkcY+HeetNY8oqyrzZH2AMncJgrOW1w5\njVmflEQjo+9g7u0y3ALz+9Ah6Legk34WbWcct6jByb30uqV6DGUplqS7t4xfS4aN\nHN1+4ySYpI+AwGcNsysHIGh8sDK1wv+rTZIa1UZVtxLJa1HCGt5c54bFfcLnA5T0\nt2NvVRHtvKhONGrqjpNvSoVpaI22P/gf8+k0/FkWZ0PqRS7Ax7kWgn4I9c+o1u6g\nGHOhgilbAgMBAAECggEAPPh10k0PvDWCIwPUW3lLUkVeC+6PSV/sbfuujrXP/Mph\nbvPt6+E7NRJRzSxhrUepdU2/JSb7JJoE3b9HJVZKeSZF3C9w4q/63yk178e67xx0\naF0yOGXgjCjdnkdnQhqHEyTtop8rq2gholJxKRhhpysiUwrVszCXqP4xynv6pTFK\nH+2jSnRj93pJ0+v+16I544wP/iGxFBSkGrXbeiycWAZxnKqqHsXj6ObUBysa2/Kk\n2vUXfqBaCR1KNDk/3RSQ2wyowiLWepV3SZyAOjjENtnmUjDY0ZNOq2Q9gCnChDu3\n+bJCiS9aSN5ty6hOwrNcYdZ40lgMNpaPquYri5pLMQKBgQDd6SYc144+i4NehusI\ntcIZQ7zPv4+veBN8mxwbBpvpxoaLXqSiwmRO+fSKT6ttHKD58O2+aSP1xkvIB9gQ\nR1Am3FNqAvMAchYXZ54Xybqci7fsuGV8uvacJIj56/qS9GjY2a+ijPBDwFWm1ajk\naedXgfIbRu4KV4HOrWUJqIzKhQKBgQDObudF9V+LgZH0PAL8rqIYp5Os1Z2z+lhA\nbnvcuRLyOI3YEwSlQUm9FqfJkBqZijZCYRcXc7HnO0FXExIHMN1QEyr8a9R397yz\nDfvnEqoLjEZjK7QRuIAAqXEIGnRYjxigmX7bPcvjiEZRvEmglf+BjWCj9UQoqS/R\nFEU8amOaXwKBgEuTjBdmkltayHL5IDLnNCPGnhdi9lycWIanjPrnVVJY+pmcshV8\nfw0ms9InMAsJJQn6s/2VcVnTHxwRD9T7dKDHiOEiAAC22i8+aulPGu8V5p4Ibwf7\n5OFoz/3OEJjcBJlWCisiNPHeH02iltKz/sYey4XeslNzWhI5m5+ed9TBAoGBAIAX\nvRZh7YmJOuHMIyZbzmVyBmZmntbA7uX8KIuLo7/9a7a6BlXsry7P0gl2i6reYlDK\nIiQBPFD5KdA4GyWvIoS/gBrlZg+S/9ozQS3fHPjRcBO1WKTuUS8X9PVMRQl2sZdl\n55tvOwbS1p99MEqfCM6AxYi3djWs1ejspRGaCngNAoGANKRQNPaNr/HqlZp4D1Os\n3i36qfJdtHOVDnAmTg4znGlp1+RQxJLklGM5GqyMqbcJrP1pPadncNNQWuUd5AE4\nGgVcQ1qB1femn1HEe8zOsCvY/4HFAHguQxUYrZfuFjIONFVgGJM+Xxj72QVtqRJ0\nfTVKqNZ63UEoUg8kig8fb08=\n-----END PRIVATE KEY-----\n",
+  "client_email": "news-152@enduring-rush-239305.iam.gserviceaccount.com",
+  "client_id": "107661198991985199383",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/news-152%40enduring-rush-239305.iam.gserviceaccount.com"
+}
